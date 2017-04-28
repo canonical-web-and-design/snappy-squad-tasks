@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ubuntudesign/snappy-squad-tasks.png?label=ready&title=Ready)](https://waffle.io/ubuntudesign/snappy-squad-tasks)
 # snappy-squad-tasks
 
 [![Stories in Ready](https://badge.waffle.io/ubuntudesign/snappy-squad-tasks.png?label=ready&title=Ready)](https://waffle.io/ubuntudesign/snappy-squad-tasks)
